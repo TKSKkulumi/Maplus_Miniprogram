@@ -5,3 +5,4 @@
 3. It helps students to find the activites they are intrested in and provides neviagtion service to it.
 
 XIAONAN PAN
+SONGHAO ZHANG
